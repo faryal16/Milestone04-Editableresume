@@ -85,7 +85,7 @@ body{
     #resumeOutput{
         background-image: url("https://img.freepik.com/free-vector/simple-green-gradient-background-vector-business_53876-168091.jpg");
         background-size: 640px;
-        width: 600px;
+        max-width: 600px;
         margin: auto ;
         padding: 20px;
         border: 1px solid #11c370;
